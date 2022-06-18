@@ -9,5 +9,5 @@ redirect_from:
 ---
 
 
-Welcome! I am not a second-year PhD student at the [VLC group, University of Southampton](https://www.vlc.ecs.soton.ac.uk/). 
+Welcome! I am now a second-year PhD student at the [VLC group, University of Southampton](https://www.vlc.ecs.soton.ac.uk/). 
 
