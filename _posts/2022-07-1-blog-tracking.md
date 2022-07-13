@@ -5,8 +5,6 @@ permalink: /posts/2022/07/tracking_probability/
 tags:
   - Computer Vision
   - Tracking
-  - excerpt_separator: <!--more-->
-  - toc: true
 ---
 This is the summarised note to deduce the predict & update tracking cycle. 
 
