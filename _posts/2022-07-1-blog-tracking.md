@@ -1,5 +1,5 @@
 ---
-title: 'An Attempt to Reduce the Number of Training Samples for Convolutional Neural Networks'
+title: 'Tracking as a Probability Model'
 date: 2022-07-01
 permalink: /posts/2022/07/tracking_probability/
 tags:
