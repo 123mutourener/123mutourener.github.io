@@ -1,7 +1,7 @@
 ---
 title: "Material Recognition for Immersive Interactions in Virtual/Augmented Reality"
 collection: publications
-permalink: /publication/bmvc-2022
+permalink: /publication/ieeevr2023
 date: 2023-03-25
 venue: 'IEEE VR 2023: the 30th IEEE Conference on Virtual Reality and 3D User Interfaces'
 link: 'https://ieeevr.org/2023/attend/registration/'
