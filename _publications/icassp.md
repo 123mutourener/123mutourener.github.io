@@ -4,8 +4,8 @@ collection: publications
 permalink: /publication/icassp2023
 date: 2023-6-4
 venue: '2023 IEEE International Conference on Acoustics, Speech and Signal Processing'
-link: 'None'
-paperurl: 'None'
+link: 'https://2023.ieeeicassp.org/'
+paperurl: 'https://ieeexplore.ieee.org/document/10094996'
 citation: 'Yihong Wu, Yuwen Heng, Mahesan Niranjan, and Hansung Kim. Depth estimation for a single omnidirectional image with reversed-gradient warming-up thresholds discriminator. In <i>2023 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)</i>, 2023'
 ---
  
