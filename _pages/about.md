@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-Welcome! I am now a third-year PhD student at the [VLC group, University of Southampton](https://www.vlc.ecs.soton.ac.uk/). My current research is Computer Vision and its Applications, particularly multi-modal material segmentation and panoramic depth estimation for immersive sound rendering, perception in autonomous driving (with a focus on sensor-fusion solutions), and the caption-based image retrieval method for data mining and corner-case generation. **For potential recruiters, I am thrilled to share that I have been approved to attend the viva for my PhD graduation on August 21. I am now looking for research positions, in China, UK, or any other European countries.**
+Welcome! I am now a third-year PhD student at the [VLC group, University of Southampton](https://www.vlc.ecs.soton.ac.uk/). My current research is Computer Vision and its Applications, particularly multi-modal material segmentation and panoramic depth estimation for immersive sound rendering, perception in autonomous driving (with a focus on sensor-fusion solutions), and the caption-based image retrieval method for data mining and corner-case generation. **For potential recruiters, I am thrilled to share that I have been approved to attend the viva for my PhD graduation on August 21. I am now seeking a research position in China, the UK, or any other European country.**
 
 I received the MSc degree in Data Science and BEng degree in Electronics and Electrical Engineering from the [University of Edinburgh](https://www.ed.ac.uk), the BEng degree in Electrical Engineering and its Automation from the [North China Electric Power University](https://www.ncepu.edu.cn/).
 
