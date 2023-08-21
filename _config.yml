@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-GB"
-title                    : "Yuwen Heng, PhD student in CV"
+title                    : "Yuwen Heng, Ph.D, Multi-Modal Deep Learning Researcher"
 title_separator          : "-"
 name                     : &name "Yuwen Heng"
 description              : &description "personal description"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Yuwen Heng"
   avatar           : "profile.jpg"
-  bio              : "PhD, Multi-Modal Deep Learning Researcher (mainly Computer Vision)"
+  bio              : "Ph.D, Multi-Modal Deep Learning Researcher (mainly Computer Vision)"
   location         : "Southampton"
   employer         :
   pubmed           : #
