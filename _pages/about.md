@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-Welcome! I received my Ph.D degree at the [VLC group, University of Southampton](https://www.vlc.ecs.soton.ac.uk/). My current research is on Computer Vision and its Applications, particularly multi-modal material segmentation and panoramic depth estimation for immersive sound rendering, perception in autonomous driving (with a focus on sensor-fusion solutions), and the caption-based image retrieval method for data mining and corner-case generation. **For potential recruiters, I am now seeking a research position in China, the UK, or any other European country.**
+Welcome! I received my Ph.D degree at the [VLC group, University of Southampton](https://www.vlc.ecs.soton.ac.uk/). My current research is on Multi-Modal Deep Learning, particularly multi-modal material segmentation and panoramic depth estimation for immersive sound rendering, perception in autonomous driving (with a focus on sensor-fusion solutions), and the caption-based image retrieval method for data mining and corner-case generation. **For potential recruiters, I am now seeking a research position in China, the UK, or any other European country.**
 
 I received the MSc degree in Data Science and BEng degree in Electronics and Electrical Engineering from the [University of Edinburgh](https://www.ed.ac.uk), the BEng degree in Electrical Engineering and its Automation from the [North China Electric Power University](https://www.ncepu.edu.cn/).
 
