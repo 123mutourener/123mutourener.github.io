@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  # name             : "Yuwen Heng"
-  # avatar           : "profile.jpg"
-  # bio              : "Ph.D, Multi-Modal Deep Learning Researcher (mainly Computer Vision)"
+  name             : "Yuwen Heng"
+  avatar           : "profile.jpg"
+  bio              : "Ph.D, Multi-Modal Deep Learning Researcher (mainly Computer Vision)"
   location         : "Southampton"
   employer         :
   pubmed           : #
