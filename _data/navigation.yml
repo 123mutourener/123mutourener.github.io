@@ -19,6 +19,8 @@ main:
     url: /cv/
   - title: "Profile"
     url: https://www.linkedin.com/in/hengyuwen/
+  - title: "GitBook"
+    url: docs.hengyuwen.com
 #
 #  - title: "Guide"
 #    url: /markdown/
