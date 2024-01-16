@@ -1,7 +1,7 @@
 ---
-permalink: /posts
+permalink: /gitbook
 title: "GitBook"
 author_profile: true
 redirect_to: 
-  - docs.hengyuwen.com
+  - https://docs.hengyuwen.com
 ---
