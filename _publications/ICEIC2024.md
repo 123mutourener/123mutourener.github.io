@@ -1,6 +1,5 @@
 ---
-title: "SliceFormer: Deep Dense Depth Estimation from a Single Indoor Omnidirectional Image
-using a Slice-based Transformer"
+title: "SliceFormer: Deep Dense Depth Estimation from a Single Indoor Omnidirectional Image using a Slice-based Transformer"
 collection: publications
 permalink: /publication/iceic-2024
 date: 2024-01-28
